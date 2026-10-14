@@ -1,0 +1,12 @@
+{
+  "userId": "u_835a2986c6f775b8",
+  "projectId": "Norvi-Neural",
+  "name": "Norvi-Neural",
+  "board": {
+    "fqbn": "esp32:esp32:esp32"
+  },
+  "selections": null,
+  "serial": null,
+  "createdAt": "2026-10-14T09:35:33.688Z",
+  "updatedAt": "2026-10-14T09:35:33.688Z"
+}
